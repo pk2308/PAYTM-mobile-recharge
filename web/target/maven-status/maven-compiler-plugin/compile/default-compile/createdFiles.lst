@@ -1,0 +1,4 @@
+PAYTM\controller\MemberController.class
+PAYTM\rest\MemberResourceRESTService.class
+PAYTM\rest\JaxRsActivator.class
+PAYTM\util\WebResources.class
